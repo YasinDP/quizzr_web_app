@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yasindp.quizzr",
+      "sha256_cert_fingerprints":
+      ["91:B3:2A:D8:46:0D:F1:3E:8A:5E:04:EE:63:34:92:D5:05:8F:DB:37:E3:CF:47:17:52:70:D3:C7:24:E5:6B:5D"]
+    }
+  }]
